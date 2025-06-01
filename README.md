@@ -11,7 +11,8 @@ A machine learning system that accurately predicts used car market values using 
 - Seating Capacity, Fuel Tank Capacity
 - Max Power, Max Torque, Drivetrain
 
-💡 Business Value
+💡 Business Value:
+
 For Buyers: Estimates fair market value to prevent overpayment
 
 For Sellers: Recommends optimal listing prices
